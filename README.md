@@ -1,5 +1,8 @@
  # كاميرا_داكنة
- #Hacker-cam
+ 
+#Hacker-cam
+
+
 
 
 
@@ -8,7 +11,9 @@
 
 
 
+
  apt update 
+
 
 
 
@@ -18,11 +23,16 @@
 
 
 
+
  cd dark_cam
 
 
 
+
+
  chmod +x *
+
+
 
 
 
@@ -32,7 +42,11 @@
 
 
 
-python cam-dark.py
+
+
+ python cam-dark.py
+
+
 
 
 
@@ -48,7 +62,10 @@ After that, choose any number and wait until a link is extracted. Go to the brow
 
 
 
-ا.   ##FOLLOW ME
+
+
+  ##FOLLOW ME
+
 
 
    # Telegram 
@@ -57,6 +74,9 @@ After that, choose any number and wait until a link is extracted. Go to the brow
 
 
 
-   #Instagram 
+   #  Instagram 
+
+
+https://instagram.com/name__dark?igshid=YmMyMTA2M2Y=
 
 
